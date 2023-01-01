@@ -1,0 +1,23 @@
+C:\Users\mrc\source\repos\bird\bird\bin\Debug\bird.exe.config
+C:\Users\mrc\source\repos\bird\bird\bin\Debug\bird.exe
+C:\Users\mrc\source\repos\bird\bird\bin\Debug\bird.pdb
+C:\Users\mrc\source\repos\bird\bird\obj\Debug\bird.csprojAssemblyReference.cache
+C:\Users\mrc\source\repos\bird\bird\obj\Debug\bird.Form1.resources
+C:\Users\mrc\source\repos\bird\bird\obj\Debug\bird.Properties.Resources.resources
+C:\Users\mrc\source\repos\bird\bird\obj\Debug\bird.csproj.GenerateResource.cache
+C:\Users\mrc\source\repos\bird\bird\obj\Debug\bird.csproj.CoreCompileInputs.cache
+C:\Users\mrc\source\repos\bird\bird\obj\Debug\bird.exe
+C:\Users\mrc\source\repos\bird\bird\obj\Debug\bird.pdb
+C:\Users\mrc\source\repos\bird\bird\obj\Debug\bird.game.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\bird\bird\bin\Debug\bird.exe.config
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\bird\bird\bin\Debug\bird.exe
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\bird\bird\bin\Debug\bird.pdb
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\bird\bird\obj\Debug\bird.csproj.AssemblyReference.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\bird\bird\obj\Debug\bird.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\bird\bird\obj\Debug\bird.Form1.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\bird\bird\obj\Debug\bird.game.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\bird\bird\obj\Debug\bird.Properties.Resources.resources
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\bird\bird\obj\Debug\bird.csproj.GenerateResource.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\bird\bird\obj\Debug\bird.csproj.CoreCompileInputs.cache
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\bird\bird\obj\Debug\bird.exe
+C:\Users\Shakar\OneDrive - Vistula University\Desktop\projects\projectr 12\bird\bird\obj\Debug\bird.pdb
